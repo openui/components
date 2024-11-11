@@ -25,9 +25,9 @@ The OpenUI Design System provides Web Components that are:
 
 ## What OpenUI Design System Isn't
 
-- **A replacement for HTML** - The OpenUI Design System builds on top of HTML elements rather than replacing them.
-- **A visual design language** - Components are intentionally unstyled by default
-- **A comprehensive solution for all UI needs** - We focus on common, well-established patterns
+- **A replacement for HTML** - The OpenUI Design System builds on top of HTML elements rather than replacing them. .
+- **A visual design language** - Components are intentionally unstyled by default, which allows users to incorporate their own visual design via the design token system.
+- **A comprehensive solution for all UI needs** - The OpenUI Design System focuses on common, well-established patterns, and does not attempt to cover every possible UI component and variant.
 - **A corporate product** - This is a community effort meant to transcend any one organization's walls and truly meet the common needs of the world's web community.
 
 ## Installation
