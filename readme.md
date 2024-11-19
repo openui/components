@@ -107,7 +107,9 @@ OpenUI Design System is governed by the W3C OpenUI Community Group. Major decisi
 
 ## License
 
-MIT License - see [LICENSE.md](LICENSE.md)
+All Software in this Repository is licensed by Contributors
+under the
+[W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/) - see [LICENSE.md](LICENSE.md)
 
 ## Current Status
 
