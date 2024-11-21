@@ -4,13 +4,13 @@ A global, accessible, and themeable design system for the web platform.
 
 ## What is OpenUI Design System?
 
-The OpenUI Design System is a collaborative effort to create a standardized set of UI components that can be used across the web. It aims to:
+The OpenUI Design System is a collaborative effort to create a centralized set of UI components that can be used across the web. It aims to:
 
 - Provide high-quality, accessible components that work across any web framework
 - Reduce duplicative effort in rebuilding common UI patterns
 - Improve the overall quality and accessibility of web experiences
 - Create a bridge between low-level HTML elements and organization-specific design systems and individual web products
-- Serve as an incubator for potential future HTML elements and attributes
+- Serve as an incubator for potential future HTML elements, attributes and APIs.
 
 The OpenUI Design System provides Web Components that are:
 
@@ -25,7 +25,8 @@ The OpenUI Design System provides Web Components that are:
 
 ## What OpenUI Design System Isn't
 
-- **A replacement for HTML** - The OpenUI Design System builds on top of HTML elements rather than replacing them. .
+- **A replacement for HTML** - The OpenUI Design System builds on top of HTML elements rather than replacing them.
+- **A W3C Standard** - The OpenUI Design System is an incubation for possible future enhancements to the web platform but they are not standardized components
 - **A visual design language** - Components are intentionally unstyled by default, which allows users to incorporate their own visual design via the design token system.
 - **A comprehensive solution for all UI needs** - The OpenUI Design System focuses on common, well-established patterns, and does not attempt to cover every possible UI component and variant.
 - **A corporate product** - This is a community effort meant to transcend any one organization's walls and truly meet the common needs of the world's web community.
