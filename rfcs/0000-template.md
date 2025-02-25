@@ -7,7 +7,7 @@ A brief explanation of the proposed feature.
 
 # Basic Example
 
-If the proposal involves a new or changed component, includ a basic code example. Omit this section if it's not applicable.
+If the proposal involves a new or changed component, include a basic code example. Omit this section if it's not applicable.
 
 # Motivation
 
@@ -18,6 +18,12 @@ Please focus on explaining the motivation so that if this RFC is not accepted, t
 # Detailed Proposal
 
 This is the bulk of the RFC. Explain the component and the design in enough detail for someone familiar with design systems and web components can understand, and someone familiar with the implementation help to implement it. This should get into as many specifics as possible, outline any edge cases or extra consideration, and include examples of how it can be used. Any new terminology should also be defined here.
+
+It's important to ensure your proposal address the key goals of the OpenUI Design System to create a component that is:
+* User Friendly
+* Accessible
+* Maintainable
+* Internationalization ready
 
 # Drawbacks
 
@@ -32,7 +38,7 @@ There are tradeoffs to choosing any path. Attempt to identify them here.
 
 # Alternatives
 
-What other designs or features have been considered? What is the impact of this not being included.
+What other designs or features have been considered? What is the impact of this not being included? Does this solution already exist within OpenUI, if so what makes this solution different?
 
 # Adoption Strategy
 
